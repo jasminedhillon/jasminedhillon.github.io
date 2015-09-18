@@ -12,6 +12,13 @@ a:visited{color:0xFFCCCC !important;}
 	display:block;
 }
 
+.header12
+{
+	width: 700px ;
+	margin-left: auto ;
+	margin-right: auto ;
+	color: purple;
+}
 .clearfix
 {
 	clear:both;
@@ -35,6 +42,10 @@ a:visited{color:0xFFCCCC !important;}
 	width: 700px ;
 	margin-left: auto ;
 	margin-right: auto ;
+	color: black;
+	
+
+
 }
 
 #profile-picture
